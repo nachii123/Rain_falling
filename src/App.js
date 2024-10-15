@@ -4,9 +4,9 @@ import Grid from "./components/Grid";
 function App() {
   return (
     <div className="App">
-      <h1>Falling Rain Grid</h1>
+      <h1>Welocome</h1>
       <div className="centerApp">
-      <Grid rows={20} cols={15} />
+      <Grid rows={15} cols={15} />
 
       </div>
       

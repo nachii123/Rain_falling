@@ -4,7 +4,7 @@
   grid-template-columns: repeat(20, 40px);
   grid-template-rows: repeat(20, 40px);
   gap: 2px;
-  background-color: black;
+  background-color: purple;
   padding: 10px;
   /* border: 1px solid #444; */
 }
@@ -12,8 +12,8 @@
 .cell {
   width: 40px;
   height: 40px;
-  background-color: #333;
-  border: 1px solid #444;
+  background-color: #251c8b;
+  border: 1px solid #470505;
   transition: background-color 0.3s;
 }
 
@@ -22,7 +22,7 @@
 }
 h1{text-align: center;}
 .centerApp{
-  background-color: black;
+  background-color: purple;
   display: flex;
   justify-content: center;
   align-items: center;
